@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 3. The country will be highlighted on the map and the total count will update
 
 ## Screenshots
-![Image](https://github.com/user-attachments/assets/a88cfa49-ff72-4579-aa8f-43bc5baf5609)
+![Image](https://github.com/user-attachments/assets/e88cd3af-afe2-4e33-8743-be55c3a24409)
 
 ## License
 This project is licensed under the ISC License.
