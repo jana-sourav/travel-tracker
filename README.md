@@ -80,7 +80,7 @@ Before you begin, ensure you have the following installed:
 2. Click "Add" to add the country to your visited list
 3. The country will be highlighted on the map and the total count will update
 
-## Screenshots
+## Screenshot
 ![Image](https://github.com/user-attachments/assets/e88cd3af-afe2-4e33-8743-be55c3a24409)
 
 ## License
